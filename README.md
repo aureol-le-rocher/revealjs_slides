@@ -1,7 +1,5 @@
 # 📘 Guide d’utilisation - Event DHIS2
 
-![Logo](https://www.emploi.cm/sites/emploi.cm/files/styles/medium/public/logo/shac_logo.jpeg?itok=CT1naUEG)
-
 ## Présentation
 
 Ce guide interactif a été **adapté au contexte du SHAC** pour accompagner les utilisateurs dans la **saisie, la correction et l’analyse des données** dans DHIS2 via les modules *Event* et *Tracker*.  
