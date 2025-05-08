@@ -5,7 +5,7 @@
 ## Présentation
 
 Ce guide interactif a été **adapté au contexte du SHAC** pour accompagner les utilisateurs dans la **saisie, la correction et l’analyse des données** dans DHIS2 via les modules *Event* et *Tracker*.  
-Il est destiné aux **mentors M&E** et aux utilisateurs terrain afin de garantir une collecte de données de qualité.
+Il est destiné aux **M&E** et aux utilisateurs terrain afin de garantir une collecte de données de qualité.
 
 > 📝 Ce matériel est une **adaptation** d’un contenu préexistant développé dans un autre contexte, pour mieux répondre aux besoins opérationnels de SHAC.
 
@@ -65,7 +65,7 @@ Ce guide est un document **reveal.js**. Pour le visualiser :
 
 ## ✍️ Auteurs
 
-**HI and IT Team – SHAC**  
+**Health Information Team – SHAC**  
 📅 Dernière mise à jour : 8 mai 2025
 
 ---
