@@ -1,0 +1,210 @@
+---
+title: |
+  <img src="https://www.emploi.cm/sites/emploi.cm/files/styles/medium/public/logo/shac_logo.jpeg?itok=CT1naUEG" class="logo-left">
+
+  
+  Guide d’utilisation
+subtitle: "Event DHIS 2"
+date: "May 8, 2025"
+author: "HI and IT Team"
+output: 
+  revealjs::revealjs_presentation:
+    incremental: true
+    theme: beige
+    highlight: monochrome
+    transition: fade
+    center: true
+    css: "styles.css"
+    self_contained: false
+    
+---
+
+
+
+# Comment accéder au logiciel DHIS2 ? {.custom-slide}
+
+## Comment accéder au logiciel DHIS2 de SHWARI? {.info-slide}
+
+> - Le DHIS2 est un logiciel pour la collecte, l’analyse et le partage des données.  
+> - Pour accéder au logiciel, il est indispensable de disposer d’un ordinateur, d’une tablette ou d’un téléphone Android connecté à internet  
+> - L’adresse web du DHIS2 du SHWARI est <http://dhis2.org>
+> - Pour accéder aux formulaires de saisie Event ou Tracker, les M&E Mentors utilisent leur compte DHIS2.
+
+
+# Quelles sont les étapes à suivre pour la saisie des données? {.custom-slide}
+
+## Etapes préliminaires {.info-slide}
+
+> - Avoir votre fiche, formulaire ou registre papier remplie
+> - Disposer d’un téléphone Android ou d’un ordinateur connecté à internet 
+> - Installer et/ou ouvrir un navigateur (de préférence **Google Chrome**) ou installer et configurer l’application Androïde *DHIS2 Capture*
+
+## Se connecter au serveur DHIS2 SHWARI {.info-slide}
+
+![revealjs logo](images/img1.png){.custom-img}
+
+
+## Accéder au module *Saisie / Capture* dans le DHIS2 (1/2) {.info-slide}
+
+![revealjs logo](images/img2.png){.custom-img}
+
+## Accéder au module **Saisie / Capture** dans le DHIS2 (2/2) {.info-slide}
+
+![revealjs logo](images/img3.png){.custom-img}
+
+
+## Formulaire Event {.info-slide1}
+
+## Débuter la saisie des données *Event* {.info-slide}
+
+
+![revealjs logo](images/img4.png){.custom-img}
+
+
+## Débuter la saisie des donnés {.info-slide}
+
+![revealjs logo](images/img5.png){.custom-img}
+
+
+## Enregistrer la saisie des données {.info-slide}
+
+![revealjs logo](images/img6.png){.custom-img}
+
+
+## Vérifier les données enregistrées  {.info-slide}
+
+![revealjs logo](images/Image7.png){.custom-img}
+
+## Formulaire Tracker  {.info-slide1}
+
+## Débuter la saisie des donnés *Tracker* {.info-slide}
+
+![revealjs logo](images/img8.png){.custom-img}
+
+
+# Quelles sont les erreurs à éviter pendant la saisie? {.custom-slide}
+
+
+## Quelles sont les erreurs à éviter pendant la saisie?  {.info-slide}
+
+> - La date de rapport est celle de la collecte des données, la date écrite sur la fiche papier et non celle du jour de la saisie
+
+> - Dans le formulaire sur le DHIS2, ne jamais cocher sur «completer l’évènement»
+
+![revealjs logo](images/img9.png){.custom-img}
+
+# Astuces sur la saisie des données {.custom-slide}
+
+## Comment rechercher et retrouver un enregistrement (1/3)?  {.info-slide}
+
+![revealjs logo](images/img10.png){.custom-img}
+
+
+## Comment rechercher et retrouver un enregistrement (2/3)?  {.info-slide}
+
+![revealjs logo](images/img11.png){.custom-img}
+
+## Comment rechercher et retrouver un enregistrement (3/3)?  {.info-slide}
+
+![revealjs logo](images/img12.png){.custom-img}
+
+## Comment modifier une saisie enregistrée (1/3)  {.info-slide}
+
+![revealjs logo](images/img13.png){.custom-img}
+
+
+## Comment modifier une saisie enregistrée (2/3)  {.info-slide}
+
+![revealjs logo](images/img14.png){.custom-img}
+
+## Comment modifier une saisie enregistrée (3/3)  {.info-slide}
+
+![revealjs logo](images/img15.png){.custom-img}
+
+## Comment supprimer un enregistrement  {.info-slide}
+
+![revealjs logo](images/img16.png){.custom-img}
+
+
+## Comment télécharger la liste linéaire des enregistrement (1/2)  {.info-slide}
+
+![revealjs logo](images/img17.png){.custom-img}
+
+
+## Comment télécharger la liste linéaire des enregistrement (2/2)  {.info-slide}
+
+![revealjs logo](images/img18.png){.custom-img}
+
+# Analyse des données - Suivi du tableau de bord {.custom-slide}
+
+## Comment aller au tableaux de bord de suivi (1/2) {.info-slide}
+
+![revealjs logo](images/img19.png){.custom-img}
+
+
+## Comment aller au tableaux de bord de suivi (2/2) {.info-slide}
+
+
+![revealjs logo](images/img20.png){.custom-img}
+
+## Comment parcourir les tableaux de bords (1/2) {.info-slide}
+
+
+![revealjs logo](images/img21.png){.custom-img}
+
+## Comment parcourir les tableaux de bords (2/2) {.info-slide}
+
+
+![revealjs logo](images/img22.png){.custom-img}
+
+
+## Comment manipuler une liste linéaire sous le module Event Reports {.info-slide}
+
+![revealjs logo](images/img23.png){.custom-img}
+
+## Comment ouvrir une figure {.info-slide}
+
+![revealjs logo](images/img24.png){.custom-img}
+
+
+## Comment manipuler une figure sous le module Data Visualizer  {.info-slide}
+
+
+![revealjs logo](images/img25.png){.custom-img}
+
+# Astuces sur l’analyse des données  {.custom-slide}
+
+## Appliquer un filtre au tableau de bord (1/3)  {.info-slide}
+
+![revealjs logo](images/img26.png){.custom-img}
+
+
+## Appliquer un filtre au tableau de bord (2/3)  {.info-slide}
+
+![revealjs logo](images/img27.png){.custom-img}
+
+
+## Appliquer un filtre au tableau de bord (3/3)  {.info-slide}
+
+![revealjs logo](images/img28.png){.custom-img}
+
+
+## Comment télécharger les données (1/2)   {.info-slide}
+
+![revealjs logo](images/img29.png){.custom-img}
+
+
+## Comment télécharger les données (2/2)  {.info-slide}
+
+
+![revealjs logo](images/img30.png){.custom-img}
+
+
+
+
+#  FIN 
+
+
+
+
+
